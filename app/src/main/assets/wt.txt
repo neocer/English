@@ -1,0 +1,141 @@
+﻿<Q><W>application software</W><D>应用软件</D></Q>
+<Q><W>cloud computing</W><D>云计算</D></Q>
+<Q><W>data</W><D>数据</D></Q>
+<Q><W>database file</W><D>数据库文件</D></Q>
+<Q><W>device driver</W><D>设备驱动程序|设备驱动器</D></Q>
+<Q><W>document file</W><D>文档文件</D></Q>
+<Q><W>flash memory card</W><D>闪存卡</D></Q>
+<Q><W>general purpose application</W><D>通用应用软件|通用应用程序</D></Q>
+<Q><W>hard disk</W><D>硬盘</D></Q>
+<Q><W>hardware</W><D>硬件</D></Q>
+<Q><W>information</W><D>信息</D></Q>
+<Q><W>information system</W><D>信息系统</D></Q>
+<Q><W>information technology(IT)</W><D>信息技术</D></Q>
+<Q><W>input device</W><D>输入设备</D></Q>
+<Q><W>keyboard</W><D>键盘</D></Q>
+<Q><W>microprocessor</W><D>微处理器</D></Q>
+<Q><W>mobile application</W><D>移动应用程序|移动应用软件</D></Q>
+<Q><W>modem</W><D>调制解调器</D></Q>
+<Q><W>mouse</W><D>鼠标</D></Q>
+<Q><W>network</W><D>网络</D></Q>
+<Q><W>operating system(OS)</W><D>操作系统</D></Q>
+<Q><W>optical disc</W><D>光盘|光碟</D></Q>
+<Q><W>output device</W><D>输出设备</D></Q>
+<Q><W>printer</W><D>打印机</D></Q>
+<Q><W>program</W><D>程序</D></Q>
+<Q><W>server</W><D>服务器</D></Q>
+<Q><W>software</W><D>软件</D></Q>
+<Q><W>utility</W><D>实用工具|实用软件</D></Q>
+<Q><W>virus</W><D>病毒|计算机病毒</D></Q>
+<Q><W>wireless revolution</W><D>无线革命</D></Q>
+<Q><W>address</W><D>地址</D></Q>
+<Q><W>Advanced  ResearchNetwork(ARPANET)</W><D>阿帕网</D></Q>
+<Q><W>attachment</W><D>附件</D></Q>
+<Q><W>browser</W><D>浏览器</D></Q>
+<Q><W>DSL</W><D>数字用户线路</D></Q>
+<Q><W>electronic commerce</W><D>电子商务</D></Q>
+<Q><W>electronic mail</W><D>电子邮件</D></Q>
+<Q><W>Facebook</W><D>脸书</D></Q>
+<Q><W>file transfer protocol(FTP)</W><D>文件传输协议|文件传送协议</D></Q>
+<Q><W>hyperlink</W><D>超链接</D></Q>
+<Q><W>security suite</W><D>安全套件</D></Q>
+<Q><W>link</W><D>链接</D></Q>
+<Q><W>microblog</W><D>微博</D></Q>
+<Q><W>mobile browser</W><D>移动浏览器|手机浏览器</D></Q>
+<Q><W>plug-in</W><D>插件程序|插件</D></Q>
+<Q><W>protocol</W><D>协议</D></Q>
+<Q><W>search engine</W><D>搜索引擎</D></Q>
+<Q><W>search service</W><D>搜索服务</D></Q>
+<Q><W>spam</W><D>垃圾邮件</D></Q>
+<Q><W>top-leveldomain(TLD)</W><D>顶级域名</D></Q>
+<Q><W>uploading</W><D>上传</D></Q>
+<Q><W>web page</W><D>网页</D></Q>
+<Q><W>wireless modem</W><D>无线调制解调器|无线猫</D></Q>
+<Q><W>animation</W><D>动画片|动画</D></Q>
+<Q><W>bitmap image</W><D>位图图像</D></Q>
+<Q><W>button</W><D>按钮</D></Q>
+<Q><W>clip art</W><D>剪贴画</D></Q>
+<Q><W>cloud suite</W><D>云套件</D></Q>
+<Q><W>database management system(DBMS)</W><D>数据库管理系统</D></Q>
+<Q><W>desktop publishing program</W><D>桌面排版程序</D></Q>
+<Q><W>dialog box</W><D>对话框</D></Q>
+<Q><W>document</W><D>文档</D></Q>
+<Q><W>drawing program</W><D>绘图程序</D></Q>
+<Q><W>icon</W><D>图标</D></Q>
+<Q><W>illustration program</W><D>绘图程序|插图程序</D></Q>
+<Q><W>Image editor</W><D>图像编辑器</D></Q>
+<Q><W>menu</W><D>菜单</D></Q>
+<Q><W>menu bar</W><D>菜单栏</D></Q>
+<Q><W>office software suites</W><D>办公软件套件</D></Q>
+<Q><W>office suites</W><D>办公套件</D></Q>
+<Q><W>pixel</W><D>像素</D></Q>
+<Q><W>ORcode(quick response code)</W><D>二维码</D></Q>
+<Q><W>slide</W><D>幻灯片</D></Q>
+<Q><W>software engineer</W><D>软件工程师</D></Q>
+<Q><W>softwaresuite</W><D>软件套件</D></Q>
+<Q><W>toolbar</W><D>工具栏</D></Q>
+<Q><W>userinterface</W><D>用户界面|用户接口</D></Q>
+<Q><W>vector image</W><D>矢量图象</D></Q>
+<Q><W>window</W><D>窗口</D></Q>
+<Q><W>background</W><D>后台</D></Q>
+<Q><W>Backup and Restore</W><D>备份与恢复|备份和恢复</D></Q>
+<Q><W>cold boot</W><D>冷启动</D></Q>
+<Q><W>diagnostic program</W><D>诊断程序</D></Q>
+<Q><W>Disk Cleanup</W><D>磁盘清理</D></Q>
+<Q><W>embedded operating system</W><D>嵌入式操作系统</D></Q>
+<Q><W>file</W><D>文件</D></Q>
+<Q><W>file compression program</W><D>文件压缩程序</D></Q>
+<Q><W>folder</W><D>文件夹</D></Q>
+<Q><W>foregrour</W><D>前台</D></Q>
+<Q><W>Networkoperating system(NOS)</W><D>网络操作系统</D></Q>
+<Q><W>Network serve</W><D>网络服务器</D></Q>
+<Q><W>platform</W><D>平台</D></Q>
+<Q><W>pointer</W><D>指针</D></Q>
+<Q><W>sector</W><D>扇区</D></Q>
+<Q><W>oftware environment(software platform)</W><D>软件环境</D></Q>
+<Q><W>system software</W><D>系统软件</D></Q>
+<Q><W>track</W><D>轨道|磁道</D></Q>
+<Q><W>virtualization</W><D>虚拟化|虚拟化技术</D></Q>
+<Q><W>warm boot</W><D>热启动系统|系统再启动</D></Q>
+<Q><W>通信设备</W><D>communication device</D></Q>
+<Q><W>连通性或连接性</W><D>connectivity</D></Q>
+<Q><W>台式计算机</W><D>desktop computer</D></Q>
+<Q><W>终端用户</W><D>enduser</D></Q>
+<Q><W>手持式计算机</W><D>handheld computer</D></Q>
+<Q><W>因特网</W><D>Internet|internet</D></Q>
+<Q><W>大型计算机</W><D>mainframe computer</D></Q>
+<Q><W>存储器</W><D>memory</D></Q>
+<Q><W>微型计算机</W><D>microcomputer</D></Q>
+<Q><W>显示器</W><D>monitor</D></Q>
+<Q><W>笔记本电脑</W><D>notework computer</D></Q>
+<Q><W>规程</W><D>procedure</D></Q>
+<Q><W>随机存取存储器</W><D>random access memory|ram|RAM</D></Q>
+<Q><W>辅助存储器</W><D>secondary storage</D></Q>
+<Q><W>智能手机</W><D>smartphone</D></Q>
+<Q><W>专用应用程序</W><D>specialized application</D></Q>
+<Q><W>超级计算机</W><D>supercomputer</D></Q>
+<Q><W>系统单元</W><D>system unit</D></Q>
+<Q><W>平板电脑</W><D>tablet|tablet computer</D></Q>
+<Q><W>博客</W><D>blog</D></Q>
+<Q><W>企业到企业的电子商务模式</W><D>b2b|B2B</D></Q>
+<Q><W>企业到用户的电子商务模式</W><D>b2c|B2C</D></Q>
+<Q><W>域名</W><D>domain name</D></Q>
+<Q><W>下载</W><D>download|downloading</D></Q>
+<Q><W>过滤器</W><D>filter</D></Q>
+<Q><W>超文本标记语言</W><D>html|HTML</D></Q>
+<Q><W>即时通信</W><D>instant messaging|im|IM</D></Q>
+<Q><W>因特网服务提供者</W><D>isp|ISP</D></Q>
+<Q><W>微博</W><D>microblog</D></Q>
+<Q><W>移动浏览器</W><D>mobie browser</D></Q>
+<Q><W>垃圾邮件拦截</W><D>spam blocker</D></Q>
+<Q><W>统一资源定位符</W><D>url|URL</D></Q>
+<Q><W>数据库</W><D>database|DB|db</D></Q>
+<Q><W>绘图程序</W><D>drawing program|illustration program</D></Q>
+<Q><W>图形化网站地图</W><D>graphical site map</D></Q>
+<Q><W>图形用户界面(英文缩写)</W><D>GUI|gui</D></Q>
+<Q><W>生产力套件</W><D>productivity suite</D></Q>
+<Q><W>记录</W><D>record</D></Q>
+<Q><W>功能区</W><D>ribbon</D></Q>
+<Q><W>主操作系统</W><D>host operating system|host os</D></Q>
+<Q><W>开放源码</W><D>open source</D></Q>
+<Q><W>故障处理程序</W><D>troubleshooting program</D></Q>
