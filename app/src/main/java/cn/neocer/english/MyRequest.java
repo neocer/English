@@ -11,6 +11,7 @@ import java.util.Map;
 
 public class MyRequest
 {
+
     public static String sendPost(String url, String param)
     {
         PrintWriter out = null;
